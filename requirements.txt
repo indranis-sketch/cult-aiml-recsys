@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+scipy
+surprise
+# Note: You can add pytorch or tensorflow here if we move to neural collaborative filtering
